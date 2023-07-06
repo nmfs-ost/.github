@@ -6,6 +6,6 @@
         "R", "code-quality"
     ],
     "filePatterns": [
-        "^DESCRIPTION$",
+        "^DESCRIPTION$"
     ]
 }
