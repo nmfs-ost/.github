@@ -1,11 +1,10 @@
 {
-    "name": "R CMD Check",
+    "name": "Call R CMD Check",
     "description": "Run devtools::check() for R packages using nmfs-fish-tools/ghactions4r",
     "iconName": "octicon check-16",
     "categories": [
-        "R", "code-quality"
+        "R"
     ],
     "filePatterns": [
-        "^DESCRIPTION$"
     ]
 }
