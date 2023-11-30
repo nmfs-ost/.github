@@ -24,7 +24,7 @@ admins or an email for the org
 
 <hr>
 
-Optional extra info for example links to popular repos or topic searches.
+Optional extra info for example links to popular repos or topic searches. You can also insert a table with the name, short description, and last commit of the repositories as seen in [this repo](https://github.com/pfmc-assessments/.github/blob/main/profile/README.md) (that isn't in GHEC) from staff at SWFSC and NWFSC.
 
 ## Disclaimer
 
@@ -32,6 +32,8 @@ The repositories in this GitHub org are scientific products and are not official
 ```
 
 Example:
+
+See [here](https://github.com/noaa-S-T/.github/blob/main/profile/README.md) for an example of what the below code looks like as a README.md for the Office of Science and Technology (it does not appear on the organization page for noaa-S-T right now because there are other files in the .github repository other than the .profile/README.md file).
 
 ```
 # NOAA Fisheries - Northwest Fisheries Science Center
