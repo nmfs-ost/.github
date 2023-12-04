@@ -6,7 +6,7 @@ Contact: nmfs-ost-github-admin@noaa.gov
 
 ## How to find repositories? 
 
-Click on repositories tab and search for a topic (stock-assessment, ggt, etc.) or program (e.g. NSAP). 
+Click on repositories tab and search for a topic (stock-assessment, ggt, etc.) or program (e.g. the national stock assessment program, NSAP). 
 
 Topics denoting specific collections of repositories are:
   - [`stock-synthesis`](https://github.com/orgs/noaa-S-T/repositories?q=stock-synthesis&type=all&language=&sort=)
