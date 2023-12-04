@@ -13,6 +13,8 @@ Edit the organization settings (settings tab when you are on the organization pa
 
 *Optional* If you create a  `.github` public repository within the organization and create a `README.md` file in a folder called `profile`, that markdown will appears when you go to the organization page. A link to create this will probably come up on the right side of your organization if you have not created this file yet.
 
+The .github repository needs to be public for the profile/README.md file to be used as the Organization Profile.
+
 Below is a template `README.md` file to be put in the  `.github/profile` folder.
 
 ```
