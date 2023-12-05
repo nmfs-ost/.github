@@ -1,8 +1,8 @@
 # NOAA Fisheries - Office of Science and Technology
 
-This GitHub organization is for members of the [Office of Science and Technology (OST)]([https://www.fisheries.noaa.gov/about/northwest-fisheries-science-center](https://www.fisheries.noaa.gov/about/office-science-and-technology)) and their collaborators. 
+This GitHub organization is for members of the [Office of Science and Technology (OST)](https://www.fisheries.noaa.gov/about/office-science-and-technology) and their collaborators. 
 
-Contact: nmfs-ost-github-admin@noaa.gov
+Contact: kathryn.doering@noaa.gov
 
 ## How to find repositories? 
 
