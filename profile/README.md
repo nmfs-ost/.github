@@ -2,7 +2,7 @@
 
 This GitHub organization is for members of the [Office of Science and Technology (OST)](https://www.fisheries.noaa.gov/about/office-science-and-technology) and their collaborators. 
 
-Contact: kathryn.doering@noaa.gov
+Contact: github.governance.team@noaa.gov
 
 ## How to find repositories? 
 
