@@ -13,7 +13,7 @@ Topics denoting specific collections of repositories are:
   - [`ggt`](https://github.com/orgs/noaa-S-T/repositories?q=ggt&type=all&language=&sort=)
   - [`admin`](https://github.com/orgs/noaa-S-T/repositories?q=admin&type=all&language=&sort=)
 
-## I'm NOAA staff - how to I request write access to this organization?
+## I'm NOAA staff - how do I request write access to this organization?
 
 See [the GitHub Governance Team intranet (NOAA internal only)](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/home) for instructions.
 
