@@ -6,14 +6,14 @@ Edit the [organization settings](https://docs.github.com/en/enterprise-cloud@lat
 
 1. Logo. If this is the organization for a science center or regional office, use [the digital NOAA logo](https://drive.google.com/drive/folders/17QrjaWNvm4Tfhd3JdML6Kc2r8px4VE1O). You will need to download and then upload this as a profile picture. If this is for a cross-office program or initiative, use the logo for that.
 2. URL. Use the url to the office on fisheries.gov. For example, `https://www.fisheries.noaa.gov/about/pacific-islands-regional-office`
-3. email. If your GitHub org has an email, include that here. The github.governance.team@noaa.gov service email can be used here.
+3. Email. If your GitHub org has an email, include that here. Otherwise, the github.governance.team@noaa.gov service email can be used here.
 4. Description. If your organization has a `profile/README.md` file, then you can leave this blank. Otherwise include a short description like "GitHub organization and repositories from staff of the NWFSC" or "GitHub organization for the Fisheries Integrated Toolbox"
 
 ## Optional: Create a organization profile README
 
 [Organization profiles](https://docs.github.com/en/enterprise-cloud@latest/organizations/collaborating-with-groups-in-organizations/customizing-your-organizations-profile#organization-profile-readmes) show information about your org publicly on GitHub.
 
-If you create a `.github` public repository within the organization and create a `README.md` file in a folder called `profile`, that markdown will appears when you go to the organization page. A link to create this will probably come up on the right side of your organization if you have not created this file yet.
+If you create a `.github` public repository within the organization and create a `README.md` file in a folder called `profile`, that markdown will appear when you go to the organization page. A link to create this will probably come up on the right side of your organization if you have not created this file yet.
 
 The `.github` repository needs to be public for the `profile/README.md` file to be used as the Organization Profile.
 
