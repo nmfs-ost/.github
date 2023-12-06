@@ -1,0 +1,10 @@
+{
+    "name": "GitLeaks - No license",
+    "description": "old version of gitleaks that does not require a license.",
+    "iconName": "octicon shield-check-16",
+    "categories": [
+        "monitoring"
+    ],
+    "filePatterns": [
+    ]
+}

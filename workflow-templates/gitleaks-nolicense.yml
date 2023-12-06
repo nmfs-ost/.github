@@ -1,0 +1,18 @@
+# Old version of gitleaks that does not require a license.
+# use this in private and internal repositories.
+name: gitleaks
+
+on: 
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  gitleaks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: '0'
+      - name: gitleaks-action
+        uses: gitleaks/gitleaks-action@v1.6.0
