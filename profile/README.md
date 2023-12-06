@@ -15,7 +15,7 @@ Topics denoting specific collections of repositories are:
 
 ## I'm NOAA staff - how do I request write access to this organization?
 
-See [the GitHub Governance Team intranet (NOAA internal only)](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/home) for instructions.
+See [the GitHub Governance Team intranet (NOAA internal only)](https://sites.google.com/noaa.gov/nmfs-st-github-governance-team/github-users) for instructions.
 
 ## Disclaimer
 
