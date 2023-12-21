@@ -9,9 +9,9 @@ Contact: github.governance.team@noaa.gov
 Click on repositories tab and search for a topic (stock-assessment, ggt, etc.) or program (e.g. the national stock assessment program, NSAP). 
 
 Topics denoting specific collections of repositories are:
-  - [`stock-synthesis`](https://github.com/orgs/noaa-S-T/repositories?q=stock-synthesis&type=all&language=&sort=)
-  - [`ggt`](https://github.com/orgs/noaa-S-T/repositories?q=ggt&type=all&language=&sort=)
-  - [`admin`](https://github.com/orgs/noaa-S-T/repositories?q=admin&type=all&language=&sort=)
+  - [`stock-synthesis`](https://github.com/orgs/nmfs-ost/repositories?q=stock-synthesis&type=all&language=&sort=)
+  - [`ggt`](https://github.com/orgs/nmfs-ost/repositories?q=ggt&type=all&language=&sort=)
+  - [`admin`](https://github.com/orgs/nmfs-ost/repositories?q=admin&type=all&language=&sort=)
 
 ## I'm NOAA staff - how to I request write access to this organization?
 
