@@ -2,8 +2,6 @@
 
 This GitHub organization is for members of the [Office of Science and Technology (OST)](https://www.fisheries.noaa.gov/about/office-science-and-technology) and their collaborators. 
 
-Contact: github.governance.team@noaa.gov
-
 ## How to find repositories? 
 
 Click on repositories tab and search for a topic (stock-assessment, ggt, etc.) or program (e.g. the national stock assessment program, NSAP). 
