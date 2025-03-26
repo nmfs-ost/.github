@@ -1,15 +1,16 @@
 # NOAA Fisheries - Office of Science and Technology
 
-This GitHub organization is for members of the [Office of Science and Technology (OST)](https://www.fisheries.noaa.gov/about/office-science-and-technology) and their collaborators. 
+This GitHub organization is for members of the [Office of Science and Technology (OST)](https://www.fisheries.noaa.gov/about/office-science-and-technology) and their collaborators. It also houses repositories for the [Office of Protected Resources (OPR)](https://www.fisheries.noaa.gov/about/office-protected-resources) and [NOAA Fisheries Advanced Technologies Strategic Initiatives](https://www.fisheries.noaa.gov/insight/advanced-technologies).
 
 ## How to find repositories? 
 
 Click on repositories tab and search for a topic (stock-assessment, ggt, etc.) or program (e.g. the national stock assessment program, NSAP). 
 
-Topics denoting specific collections of repositories are:
+Topics or repository prefixes denoting specific collections of repositories include:
+  - [`AA`](https://github.com/orgs/nmfs-ost/repositories?q=AA) - Active Acoustics
+  - [`FIT`](https://github.com/orgs/nmfs-ost/repositories?q=FIT) - The NOAA Fisheries Integrated Toolbox
+  - [`pam`](https://github.com/orgs/nmfs-ost/repositories?q=PAM) - Passive Acoustics Monitoring
   - [`stock-synthesis`](https://github.com/orgs/nmfs-ost/repositories?q=stock-synthesis&type=all&language=&sort=)
-  - [`ggt`](https://github.com/orgs/nmfs-ost/repositories?q=ggt&type=all&language=&sort=)
-  - [`admin`](https://github.com/orgs/nmfs-ost/repositories?q=admin&type=all&language=&sort=)
 
 ## I'm NOAA staff - how do I request write access to this organization?
 
