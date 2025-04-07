@@ -2,6 +2,11 @@
 
 This GitHub organization is for members of the [Office of Science and Technology (OST)](https://www.fisheries.noaa.gov/about/office-science-and-technology) and their collaborators. It also houses repositories for the [Office of Protected Resources (OPR)](https://www.fisheries.noaa.gov/about/office-protected-resources) and [NOAA Fisheries Advanced Technologies Strategic Initiatives](https://www.fisheries.noaa.gov/insight/advanced-technologies).
 
+## Code of Conduct
+
+The nmfs-ost organization follows the [Fisheries Integrated Toolbox Code of Conduct](https://github.com/nmfs-ost/FIT-resource-files/blob/main/CODE_OF_CONDUCT.md). 
+
+
 ## How to find repositories? 
 
 Click on repositories tab and search for a topic (stock-assessment, ggt, etc.) or program (e.g. the national stock assessment program, NSAP). 
